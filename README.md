@@ -1,5 +1,4 @@
-# nahodny-slusny-cech
-https://jkremser.github.io/nahodny-slusny-cech/
+# nahodny-cech
 
 Jednoduchy 'automatizovany trolling' inspirovany [idioty z novinek](https://www.facebook.com/idiotiznovinek).
 Ucel neni nikoho urazit, ale spis ukazat na absurditu komunikace nekterych skupin ceskeho obyvatelstva,
